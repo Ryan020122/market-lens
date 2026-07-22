@@ -1,0 +1,4 @@
+{
+  "default_watchlist": ["APLD", "MU", "NBIS", "BE", "TE", "GOOGL", "MSFT"],
+  "purpose": "Optional company context inside a macro-first research dashboard"
+}
